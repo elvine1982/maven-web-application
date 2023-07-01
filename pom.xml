@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-wep4</finalName>
+		<finalName>tesla-fe</finalName>
 		
 		<plugins>
 			<plugin>
