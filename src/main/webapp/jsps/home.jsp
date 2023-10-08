@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Iowa Tabernacle church Web application Dubai23 Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class33 will start on July 15, 2023. Thank you for this apportunity i like it </h1>
+<h1 align="center">Welcome to Iowa Tabernacle church We are the church of the message of the end of time  preach by william marrion branham  application Dubai23 Project.</h1>
+<h1 align="center">Jesus is the same yesterday for forever.
+	           there is no time to waist because jesus is comming soon.
+	evrything in this world will pass but the word of God will never pass.
+	but God shows his love for us in that while we were still sinners, Christ died for us. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -35,12 +35,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/jesus.jpg" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Iowa Tabernacle Church, 
 		Iowa, USA
 		+1 3195125377,
-		mylandmarktech@gmail.com
+		iowatabernaclechurch67@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:iowatabrnaclechurch67@gmail.com">Mail to Iowa Tabernacle Church</a>
 	</span>
 </div>
 <hr>
