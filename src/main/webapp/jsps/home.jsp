@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Iowa Tabernacle church We are the church of the message of the end of time  preach by william marrion branham  application Dubai23 Project.</h1>
-<h1 align="center">Jesus is the same yesterday for forever.
+<h1 align="center">Jesus is the same yesterday today for forever.
 	           there is no time to waist because jesus is comming soon.
 	evrything in this world will pass but the word of God will never pass.
 	but God shows his love for us in that while we were still sinners, Christ died for us. </h1>
